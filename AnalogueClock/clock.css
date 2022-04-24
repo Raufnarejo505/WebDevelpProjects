@@ -1,0 +1,13 @@
+body {
+    background: linear-gradient(rgba(8, 0, 16, 0.916), transparent), linear-gradient(to top left, #0f0f45c0, transparent), linear-gradient(to top right, rgb(254, 254, 254), transparent);
+    background-blend-mode: screen;
+    background-repeat: no-repeat;
+    /* background-image: url("160944603_258255985991503_9166984731071376937_n-modified.png");
+    background-color: rgba(238, 205, 16, 0.372);
+    background-blend-mode: lighten; */
+}
+
+#canvas {
+    margin: left 300px;
+    margin: top 50px;
+}
